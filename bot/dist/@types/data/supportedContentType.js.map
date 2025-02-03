@@ -1,1 +1,0 @@
-{"version":3,"file":"supportedContentType.js","sourceRoot":"","sources":["../../../src/@types/data/supportedContentType.ts"],"names":[],"mappings":"AAGA;;;;GAIG;AACH,MAAM,OAAgB,oBAAoB;IACxB,SAAS,CAAY;IACrB,QAAQ,CAAW;IAEnC;;;;OAIG;IACH,YAAsB,SAAoB,EAAE,QAAkB;QAC5D,IAAI,CAAC,SAAS,GAAG,SAAS,CAAC;QAC3B,IAAI,CAAC,QAAQ,GAAG,QAAQ,CAAC;IAC3B,CAAC;CACF"}

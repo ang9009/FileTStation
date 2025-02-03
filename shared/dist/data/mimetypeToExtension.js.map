@@ -1,1 +1,0 @@
-{"version":3,"file":"mimetypeToExtension.js","sourceRoot":"","sources":["../../src/data/mimetypeToExtension.ts"],"names":[],"mappings":"AAEA,MAAM,CAAC,MAAM,mBAAmB,GAAoC;IAClE,YAAY,EAAE,KAAK;IACnB,WAAW,EAAE,KAAK;IAClB,WAAW,EAAE,KAAK;IAClB,YAAY,EAAE,MAAM;IACpB,WAAW,EAAE,KAAK;IAClB,YAAY,EAAE,MAAM;IACpB,WAAW,EAAE,KAAK;IAClB,YAAY,EAAE,MAAM;IACpB,iBAAiB,EAAE,KAAK;CACzB,CAAC"}

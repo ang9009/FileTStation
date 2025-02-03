@@ -1,2 +1,0 @@
--- AlterTable
-ALTER TABLE "Guild" ALTER COLUMN "createdAt" SET DATA TYPE TIMESTAMP(3);

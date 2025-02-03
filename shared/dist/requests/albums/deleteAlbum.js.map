@@ -1,1 +1,0 @@
-{"version":3,"file":"deleteAlbum.js","sourceRoot":"","sources":["../../../src/requests/albums/deleteAlbum.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,CAAC,EAAE,MAAM,KAAK,CAAC;AAExB,MAAM,CAAC,MAAM,wBAAwB,GAAG,CAAC,CAAC,MAAM,CAAC;IAC/C,OAAO,EAAE,CAAC,CAAC,MAAM,EAAE;CACpB,CAAC,CAAC"}

@@ -1,1 +1,0 @@
-{"version":3,"file":"getDirname.js","sourceRoot":"","sources":["../../src/utils/getDirname.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,MAAM,CAAC;AAC/B,OAAO,EAAE,aAAa,EAAE,MAAM,KAAK,CAAC;AAEpC;;;;GAIG;AACH,MAAM,CAAC,MAAM,UAAU,GAAG,CAAC,SAAiB,EAAU,EAAE;IACtD,OAAO,OAAO,CAAC,aAAa,CAAC,SAAS,CAAC,CAAC,CAAC;AAC3C,CAAC,CAAC"}

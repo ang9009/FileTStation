@@ -1,1 +1,0 @@
-{"version":3,"file":"editAlbum.js","sourceRoot":"","sources":["../../../src/requests/albums/editAlbum.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,CAAC,EAAE,MAAM,KAAK,CAAC;AACxB,OAAO,EAAE,eAAe,EAAE,eAAe,EAAE,MAAM,eAAe,CAAC;AAEjE,MAAM,CAAC,MAAM,sBAAsB,GAAG,CAAC,CAAC,MAAM,CAAC;IAC7C,OAAO,EAAE,CAAC,CAAC,MAAM,EAAE;IACnB,YAAY,EAAE,eAAe;IAC7B,YAAY,EAAE,eAAe;CAC9B,CAAC,CAAC"}

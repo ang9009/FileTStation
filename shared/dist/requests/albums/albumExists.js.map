@@ -1,1 +1,0 @@
-{"version":3,"file":"albumExists.js","sourceRoot":"","sources":["../../../src/requests/albums/albumExists.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,CAAC,EAAE,MAAM,KAAK,CAAC;AAExB,MAAM,yBAAyB,GAAG,CAAC,CAAC,MAAM,CAAC;IACzC,SAAS,EAAE,CAAC,CAAC,MAAM,CAAC;QAClB,kBAAkB,EAAE,4BAA4B;QAChD,cAAc,EAAE,uBAAuB;KACxC,CAAC;CACH,CAAC,CAAC;AAIH,OAAO,EAAuB,yBAAyB,EAAE,CAAC"}

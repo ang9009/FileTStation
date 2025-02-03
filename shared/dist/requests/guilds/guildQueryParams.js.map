@@ -1,1 +1,0 @@
-{"version":3,"file":"guildQueryParams.js","sourceRoot":"","sources":["../../../src/requests/guilds/guildQueryParams.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,CAAC,EAAE,MAAM,KAAK,CAAC;AAExB,MAAM,sBAAsB,GAAG,CAAC,CAAC,MAAM,CAAC;IACtC,OAAO,EAAE,CAAC,CAAC,MAAM,CAAC;QAChB,kBAAkB,EAAE,0BAA0B;QAC9C,cAAc,EAAE,qBAAqB;KACtC,CAAC;CACH,CAAC,CAAC;AAIH,OAAO,EAAoB,sBAAsB,EAAE,CAAC"}
